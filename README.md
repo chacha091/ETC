@@ -1,2 +1,2 @@
-# BOJ
+
 BOJ practice
